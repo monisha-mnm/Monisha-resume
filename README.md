@@ -10,7 +10,7 @@
   </head>
   <body>
     <header>
-      <h1>Monisha Mahajan | Resume</h1>
+      <h1>Monisha Mahajan </h1>
       <p>
         Finance Enthusiast | Python & JavaScript Learner | Future Tech-Savvy
         Analyst
