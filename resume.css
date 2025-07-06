@@ -13,6 +13,12 @@ body {
 }
 
 header {
+  .top-center-image {
+  display: block;
+  margin: 20px auto 0 auto;
+  border-radius: 10px; /* or 50% for a circle */
+}
+
   text-align: center;
   margin-bottom: 40px;
 }
