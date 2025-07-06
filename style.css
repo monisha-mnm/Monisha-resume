@@ -17,8 +17,13 @@ img {
 }
 .top-center-image {
   display: block;
-  margin: 20px auto 0 auto;
-  border-radius: 10px; /* or 50% for a circle */
+  margin: 0 auto 20px;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%; /* Makes it a perfect circle */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Soft shadow */
+  border: 3px solid #2c3e50; /* Optional: elegant border */
 }
 
 header {
