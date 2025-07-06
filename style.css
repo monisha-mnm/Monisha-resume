@@ -15,16 +15,6 @@ img {
     display: block; /* Ensures the image is a block element */
     margin: 0 auto 20px; /* Centers the image and adds space below */
 }
-.top-center-image {
-  display: block;
-  margin: 0 auto 20px;
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 50%; /* Makes it a perfect circle */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Soft shadow */
-  border: 3px solid #2c3e50; /* Optional: elegant border */
-}
 
 header {
   text-align: center;
