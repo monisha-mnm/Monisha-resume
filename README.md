@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
-    <td><img src="mnmnew4.jpg" alt="Monisha's photo" width="200" height="200"/></td>
+    <td><img src="mnmnew4.jpg" alt="Monisha's photo" width="200" height="250"/></td>
     <meta charset="UTF-8" />
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap"
@@ -11,7 +10,7 @@
   </head>
   <body>
     <header>
-      <h1>Monisha Mahajan</h1>
+      <h1>Monisha Mahajan | Resume</h1>
       <p>
         Finance Enthusiast | Python & JavaScript Learner | Future Tech-Savvy
         Analyst
