@@ -87,7 +87,6 @@
       </p>
       <p>Phone: 6280257686</p>
     </section>
-
     <footer>
       <p>© 2025 Monisha Mahajan</p>
     </footer>
