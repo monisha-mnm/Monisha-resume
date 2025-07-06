@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <td><img src="mnmnew4.jpg" /></td>
+    <td><img src="mnmnew4.jpg" alt="Monisha's photo" width="200" height="200"/></td>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width="20" />
     <title>Monisha Mahajan | Resume</title>
