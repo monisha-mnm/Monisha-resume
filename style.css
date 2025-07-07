@@ -85,3 +85,15 @@ footer {
   transform: scale(1.05);
   transition: transform 0.3s ease;
 }
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
