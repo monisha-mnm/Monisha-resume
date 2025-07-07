@@ -1,23 +1,7 @@
-/* style.css */
-
-body {
-  background-color: #ffffff;
-  color: #222222;
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-body.dark-mode {
-  background-color: #121212;
-  color: #f0f0f0;
-}
-
-/* Optional: Adjust other elements */
-.dark-mode a {
-  color: #9ecbff;
-}
-
-.dark-mode .card, 
-.dark-mode .section {
-  background-color: #1e1e1e;
-  border-color: #333;
-}
+// script.js
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.getElementById("toggle-theme");
+  button.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+  });
+});
