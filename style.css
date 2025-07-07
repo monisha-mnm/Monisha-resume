@@ -36,6 +36,11 @@ h2 {
   border-bottom: 2px solid #ddd;
   padding-bottom: 5px;
 }
+.icon {
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
 
 section {
   margin-bottom: 30px;
