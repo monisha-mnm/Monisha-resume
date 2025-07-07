@@ -11,14 +11,6 @@ body {
   color: #333;
   padding: 20px;
 }
-#fade-text {
-  opacity: 0;
-  transition: opacity 2s ease-in;
-}/*fading text*/
-
-#fade-text.visible {
-  opacity: 1;
-}
 img {
     display: block; /* Ensures the image is a block element */
     margin: 0 auto 20px; /* Centers the image and adds space below */
